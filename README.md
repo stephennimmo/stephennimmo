@@ -1,4 +1,4 @@
-### Hi there 👋
+## Find me on Twitter at https://twitter.com/stephennimmo
 
 <!--
 **stephennimmo/stephennimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
